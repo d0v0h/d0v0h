@@ -12,4 +12,4 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d0v0h&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d0v0h)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0v0h&layout=compact)﻿
